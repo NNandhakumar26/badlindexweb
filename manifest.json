@@ -1,6 +1,6 @@
 {
-    "name": "badl_app",
-    "short_name": "badl_app",
+    "name": "badlindex",
+    "short_name": "badlindex",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
